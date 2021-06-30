@@ -19,7 +19,6 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 ![채널별](https://user-images.githubusercontent.com/61241244/123997026-e7e4ed00-da0a-11eb-9aad-4b70344abee5.png)
 ### 주요특성 상관계수
 ![특성](https://user-images.githubusercontent.com/61241244/124006375-22538780-da15-11eb-8740-4887bdb56325.PNG)
- - Reg_Donour와 Inbound_Call의 상관계수가 높은 걸보아, 주요 특성으로 볼 수 있음
 ### 컬럼별 상관계수
 ![컬럼별상관관계](https://user-images.githubusercontent.com/61241244/124003392-d7844080-da11-11eb-8090-96a435bdb6db.PNG)
 ### 예상광고비대비 ROI[RED], 후원금액 예측커브[BLUE]
