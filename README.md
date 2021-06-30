@@ -25,7 +25,7 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 # 4. RAW 데이터
 1) 18년1월부터 20년11월까지 채널별 후원금 모금 실적 : Donour.xlsx
 2) 18년1월부터 20년11월까지 채널별 세이브더칠드런 광고 송출횟수 및 누적광고시청자수 : Rating_18-1.xlsx, Rating_18-2.xlsx, Rating_19.xlsx, Rating_20.xlsx
-
+3) 18년1월부터 20년11월까지 채널별 광고 스케쥴 : Cuesheet.xlsx
 # 5. 본론
 ### 시간대별 시청자수, ROI, 인바운드콜
 ![월별 시간대별](https://user-images.githubusercontent.com/61241244/123995940-c7686300-da09-11eb-8cd0-9ec2f9ee8a0b.png)
@@ -35,9 +35,9 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 ![특성](https://user-images.githubusercontent.com/61241244/124006375-22538780-da15-11eb-8740-4887bdb56325.PNG)
 ### 컬럼별 상관계수
 ![컬럼별상관관계](https://user-images.githubusercontent.com/61241244/124003392-d7844080-da11-11eb-8090-96a435bdb6db.PNG)
+# 6. 결론
 ### 예상광고비대비 ROI[RED], 후원금액 예측커브[BLUE]
 ![theend](https://user-images.githubusercontent.com/61241244/124005707-59756900-da14-11eb-8f01-771fcf65b45e.PNG)
-### 결론
 - 광고량으로 인바운드 콜을 예측하기 위해 광고노출량(시청자수)외 커버리지(Reach), 연령별 변수 추가 필요
 - 50대, 60대 남성의 도달자수가 예측력을 높이는 데 중요한 특성
 - Reach 1+와 Reach3+ 등 단순노출 외 광고의 커버리지를 반영 -> 채널조합에 따른 변수를 포함
