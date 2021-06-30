@@ -23,8 +23,8 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 8) CPD : 정기후원 1건 개발 비용, 단위-천원
 9) CPM : 시청자 1천명 개발 비용, 단위-천원
 # 4. RAW 데이터
-1) 18년1월부터 20년11월까지 채널별 후원금 모금 실적
-2) 18년1월부터 20년11월까지 채널별 세이브더칠드런 광고 송출횟수 및 누적광고시청자수
+1) 18년1월부터 20년11월까지 채널별 후원금 모금 실적 : Donour.xlsx
+2) 18년1월부터 20년11월까지 채널별 세이브더칠드런 광고 송출횟수 및 누적광고시청자수 : Rating_18-1.xlsx, Rating_18-2.xlsx, Rating_19.xlsx, Rating_20.xlsx
 
 # 5. 본론
 ### 시간대별 시청자수, ROI, 인바운드콜
