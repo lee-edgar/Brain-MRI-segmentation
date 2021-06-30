@@ -13,7 +13,7 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 ### 후원예측 분석 로드맵
  ![ngo_02](https://user-images.githubusercontent.com/61241244/123993988-e7972280-da07-11eb-973c-5e9ec8c8e61c.JPG)
 # 3. 용어
-1) Inbound_Calls : 후원문의전화수, 단위-건
+- 1) Inbound_Calls : 후원문의전화수, 단위-건
 2) Reg Donour : 정기후원수, 단위-건
 3) CV_R : 후원전환율, 단위-%
 4) Cost : 부가세포함광고비, 단위:천원
