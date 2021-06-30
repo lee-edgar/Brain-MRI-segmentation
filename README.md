@@ -12,7 +12,7 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 # 2. 로드맵 ::
 ### 후원예측 분석 로드맵
  ![ngo_02](https://user-images.githubusercontent.com/61241244/123993988-e7972280-da07-11eb-973c-5e9ec8c8e61c.JPG)
-# 3. 용어 및 raw 데이터
+# 3. 용어
 1) Inbound_Calls : 후원문의전화수, 단위-건
 2) Reg Donour : 정기후원수, 단위-건
 3) CV_R : 후원전환율, 단위-%
@@ -22,11 +22,11 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 7) CPR : 문의전화 1콜 당 비용, 단위-천원
 8) CPD : 정기후원 1건 개발 비용, 단위-천원
 9) CPM : 시청자 1천명 개발 비용, 단위-천원
-
+# 4. RAW 데이터
 1) 18년1월부터 20년11월까지 채널별 후원금 모금 실적
 2) 18년1월부터 20년11월까지 채널별 세이브더칠드런 광고 송출횟수 및 누적광고시청자수
 
-# 3. 본론
+# 5. 본론
 ### 시간대별 시청자수, ROI, 인바운드콜
 ![월별 시간대별](https://user-images.githubusercontent.com/61241244/123995940-c7686300-da09-11eb-8cd0-9ec2f9ee8a0b.png)
 ### 채널별 시청자수, ROI, 인바운드콜
