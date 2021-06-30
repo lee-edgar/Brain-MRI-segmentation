@@ -26,6 +26,7 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 1) 18년1월부터 20년11월까지 채널별 후원금 모금 실적 : Donour.xlsx
 2) 18년1월부터 20년11월까지 채널별 세이브더칠드런 광고 송출횟수 및 누적광고시청자수 : Rating_18-1.xlsx, Rating_18-2.xlsx, Rating_19.xlsx, Rating_20.xlsx
 3) 18년1월부터 20년11월까지 채널별 광고 스케쥴 : Cuesheet.xlsx
+4) 실제 케이스 자료 : lm_result.xlsx
 # 5. 본론
 ### 시간대별 시청자수, ROI, 인바운드콜
 ![월별 시간대별](https://user-images.githubusercontent.com/61241244/123995940-c7686300-da09-11eb-8cd0-9ec2f9ee8a0b.png)
