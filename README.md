@@ -17,3 +17,5 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 ![월별 시간대별](https://user-images.githubusercontent.com/61241244/123995940-c7686300-da09-11eb-8cd0-9ec2f9ee8a0b.png)
 ### 채널별 시청자수, ROI, 인바운드콜
 ![채널별](https://user-images.githubusercontent.com/61241244/123997026-e7e4ed00-da0a-11eb-9aad-4b70344abee5.png)
+### 컬럼별 상관계수
+<img width="1123" alt="수컬럼별 상관계" src="https://user-images.githubusercontent.com/61241244/124003190-9db33a00-da11-11eb-8b35-bcea686e9369.png">
