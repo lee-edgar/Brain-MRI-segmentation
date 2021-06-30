@@ -9,6 +9,7 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 ![ngo](https://user-images.githubusercontent.com/61241244/123994059-f978c580-da07-11eb-872d-968698296ec9.PNG)
 ### NGO기관 'S'기관의 후원광고 실적 분석 및 예측 ::
 ![ngo_01](https://user-images.githubusercontent.com/61241244/123988536-119a1600-da03-11eb-97cf-b27c74ce8f75.JPG)
-# 2. 후원예측 분석 로드맵 ::
+# 2. 로드맵 ::
+### 후원예측 분석 로드맵
  ![ngo_02](https://user-images.githubusercontent.com/61241244/123993988-e7972280-da07-11eb-973c-5e9ec8c8e61c.JPG)
 
