@@ -12,6 +12,17 @@ Brain MRI images together with manual FLAIR abnormality segmentation masks
 # 2. 로드맵 ::
 ### 후원예측 분석 로드맵
  ![ngo_02](https://user-images.githubusercontent.com/61241244/123993988-e7972280-da07-11eb-973c-5e9ec8c8e61c.JPG)
+# 3. 용어
+- 1) Inbound_Calls : 후원문의전화수, 단위-건
+- 2) Reg Donour : 정기후원수, 단위-건
+- 3) CV_R : 후원전환율, 단위-%
+- 4) Cost : 부가세포함광고비, 단위:천원
+- 5) RD Amount : 첫달정기후원금액, 단위-천원
+- 6) ROI : 광고비대비 정기후원모금비율
+- 7) CPR : 문의전화 1콜 당 비용, 단위-천원
+- 8) CPD : 정기후원 1건 개발 비용, 단위-천원
+- 9) CPM : 시청자 1천명 개발 비용, 단위-천원
+<BR>
 # 3. 본론
 ### 시간대별 시청자수, ROI, 인바운드콜
 ![월별 시간대별](https://user-images.githubusercontent.com/61241244/123995940-c7686300-da09-11eb-8cd0-9ec2f9ee8a0b.png)
