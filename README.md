@@ -1,5 +1,4 @@
-# Brain-MRI-segmentation
-Brain MRI images together with manual FLAIR abnormality segmentation masks
+# NGO ROI(ROAS) Direct 광고대비 후원금액 예측
 
 # NGO ROI(ROAS) Direct 광고대비 후원금액 예측
 ![roas](https://user-images.githubusercontent.com/61241244/123992245-6ab77900-da06-11eb-89a4-4c25758b6d2c.png)
